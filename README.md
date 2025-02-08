@@ -8,26 +8,20 @@
   </samp>
 </p>
 
-#### Hello world! Here is lokinko's personal space. You can click [here](mailto:lokinko.cs@gmail.com) to contact me.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=beiyuouo&show_icons=true&hide_border=true&theme=radical" width="50%">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
+#### Welcome to my github profile!
 
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-
-- 🌱 I graduated with a master's degree from the College of Big Data and Software Engineering at Chongqing University
+- 🌱 I received master's degree from the College of Big Data and Software Engineering at Chongqing University
 
 - 🐯 I focus on federated learning, efficient inference and personalization for large language models.
 
-- 🌻 I'm working as a machine learning algorithm engineer in [OPPO research institute](https://www.oppo.com/en/), Shenzhen, Guangdong province.
+- 🌻 I'm lokinko, working as a machine learning algorithm engineer in [OPPO research institute](https://www.oppo.com/en/), Shenzhen.
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
-
-<!--
-**lokinko/lokinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
