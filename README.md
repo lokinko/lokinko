@@ -8,7 +8,12 @@
   </samp>
 </p>
 
-#### Hello world! Here is [lokinko](mailto:lokinko.cs@gmail.com)'s personal space.
+#### Hello world! Here is lokinko's personal space. You can click [here](mailto:lokinko.cs@gmail.com) to contact me.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -18,7 +23,7 @@
 
 - 🐯 I focus on federated learning, efficient inference and personalization for large language models.
 
-- 🌻 I'm working as a machine learning algorithm engineer in OPPO research institute, Shenzhen, Guangdong province.
+- 🌻 I'm working as a machine learning algorithm engineer in [OPPO research institute](https://www.oppo.com/en/), Shenzhen, Guangdong province.
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
