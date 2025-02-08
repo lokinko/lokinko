@@ -1,6 +1,6 @@
-<h3 align="center"> lokinko / (Xiangmou Qu) </h3>
+<h3 align="left"> lokinko / (Xiangmou Qu) </h3>
 
-<p align="center">
+<p align="left">
   <samp>
     <a href="https://github.com/lokinko">github</a> ∙ 
     <a href="https://www.zhihu.com/people/lokinko">zhihu</a> ∙
@@ -9,7 +9,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" />
 </a>
 
 #### Welcome to my github profile!
