@@ -8,7 +8,9 @@
   </samp>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=beiyuouo&show_icons=true&hide_border=true&theme=radical" width="50%">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" />
+</a>
 
 #### Welcome to my github profile!
 
