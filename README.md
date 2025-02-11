@@ -8,10 +8,16 @@
   </samp>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" width="40%">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokinko&layout=compact" width="40%">
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" 
+         style="width: 45%; max-width: 400px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokinko&layout=compact" 
+         style="width: 45%; max-width: 400px;" />
+  </a>
+</div>
 
 #### Welcome to my github profile!
 
