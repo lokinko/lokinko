@@ -27,7 +27,7 @@
 
 - 🌱 I received master's degree from the College of Big Data and Software Engineering at <a href="https://www.cqu.edu.cn/" style="text-decoration: underline;">Chongqing University.</a>
 
-- 🐯 I focus on **<u>federated learning</u>**, **<u>efficient inference</u>** and **<u>personalization</u>** for LLMs.
+- 🐯 I focus on **<u><span style="color: red;">federated learning</span></u>**, **<u><span style="color: red;">efficient inference</span></u>** and **<u><span style="color: red;">personalization</span></u>** for LLMs.
 
 - 🌻 I'm lokinko, working as a machine learning algorithm engineer in <a href="https://www.oppo.com/en/" style="text-decoration: underline;">OPPO research institute</a>, Shenzhen.
 
