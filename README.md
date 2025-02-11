@@ -25,11 +25,11 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-- 🌱 I received master's degree from the College of Big Data and Software Engineering at **[Chongqing University](https://www.cqu.edu.cn/){: style="text-decoration: underline;"}**
+- 🌱 I received master's degree from the College of Big Data and Software Engineering at <a href="https://www.cqu.edu.cn/" style="text-decoration: underline;">Chongqing University.</a>
 
 - 🐯 I focus on **<u>federated learning</u>**, **<u>efficient inference</u>** and **<u>personalization</u>** for LLMs.
 
-- 🌻 I'm lokinko, working as a machine learning algorithm engineer in **[OPPO research institute](https://www.oppo.com/en/){: style="text-decoration: underline;"}**, Shenzhen.
+- 🌻 I'm lokinko, working as a machine learning algorithm engineer in <a href="https://www.oppo.com/en/" style="text-decoration: underline;">OPPO research institute</a>, Shenzhen.
 
 **[Accepted Paper List]**
 
