@@ -1,10 +1,5 @@
 <h3 align="cneter"> lokinko / (Xiangmou Qu) </h3>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" />
-</a>
-
 <p align="cneter">
   <samp>
     <a href="https://github.com/lokinko">github</a> ∙ 
@@ -12,6 +7,9 @@
     <a href="https://space.bilibili.com/8211673">bilibili</a>
   </samp>
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" width="50%">
+
 
 #### Welcome to my github profile!
 
