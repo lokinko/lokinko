@@ -37,7 +37,7 @@
 **[Accepted Paper List]**
 
 - [AAAI'25] Yanbing Zhou, **Xiangmou Qu**, et al. FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning **(Oral)**
-- [DASFAA'25] Min Fang, Zhihui Fu, **Xiangmou Qu**, et al. OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing.
+- [DASFAA'25] Min Fang, Zhihui Fu, **Xiangmou Qu**, et al. OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing. **(Long Oral, Industry track)** 
 - [TIFS'24] H Wang, Y Cai, J Wang, C Ma, C Ge, **X Qu**, L Zhou. Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation.
 
 
