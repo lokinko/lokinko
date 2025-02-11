@@ -4,7 +4,8 @@
   <samp>
     <a href="https://github.com/lokinko">github</a> ∙ 
     <a href="https://www.zhihu.com/people/lokinko">zhihu</a> ∙
-    <a href="https://space.bilibili.com/8211673">bilibili</a>
+    <a href="https://space.bilibili.com/8211673">bilibili</a> ∙
+    <a href="lokinko.cs@gmail.com">email</a>
   </samp>
 </p>
 
