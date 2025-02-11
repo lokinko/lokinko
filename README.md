@@ -1,6 +1,6 @@
-<h3 align="cneter"> lokinko / (Xiangmou Qu) </h3>
+<h3 align="center"> lokinko / (Xiangmou Qu) </h3>
 
-<p align="cneter">
+<p align="center">
   <samp>
     <a href="https://github.com/lokinko">github</a> ∙ 
     <a href="https://www.zhihu.com/people/lokinko">zhihu</a> ∙
@@ -8,7 +8,7 @@
   </samp>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" width="50%">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark">
 
 
 #### Welcome to my github profile!
@@ -28,6 +28,7 @@
 - [AAAI'25] Yanbing Zhou, **Xiangmou Qu**, et al. FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning **(Oral)**
 - [DASFAA'25] Min Fang, Zhihui Fu, **Xiangmou Qu**, et al. OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing.
 - [TIFS'24] H Wang, Y Cai, J Wang, C Ma, C Ge, **X Qu**, L Zhou. Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation.
+  
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
