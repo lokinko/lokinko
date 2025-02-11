@@ -11,11 +11,11 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" 
-         style="width: 45%; max-width: 400px;" />
+         style="width: 45%; max-width: 400px; height: 200px; object-fit: cover;" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokinko&layout=donut" 
-         style="width: 45%; max-width: 400px;" />
+         style="width: 45%; max-width: 400px; height: 200px; object-fit: cover;" />
   </a>
 </div>
 
