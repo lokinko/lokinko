@@ -8,9 +8,9 @@
   </samp>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" width="50%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark" width="40%">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokinko&layout=compact" width="50%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokinko&layout=compact" width="40%">
 
 
 #### Welcome to my github profile!
