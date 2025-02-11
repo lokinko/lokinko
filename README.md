@@ -31,7 +31,7 @@
 
 - 🐯 I focus on **<u><span style="color: red;">federated learning</span></u>**, **<u><span style="color: red;">efficient inference</span></u>** and **<u><span style="color: red;">personalization</span></u>** for LLMs.
 
-- 📫 ![Static Badge](https://img.shields.io/badge/personal_email-(lokinko.cs@gmail.com)-blue)
+- 📫 ![Static Badge](https://img.shields.io/badge/personal_wechat-lokinko-gree)  ![Static Badge](https://img.shields.io/badge/QQ-310556100-blue) ![Static Badge](https://img.shields.io/badge/steam-Lokinko-red) 
 ---
 
 **[Accepted Paper List]**
