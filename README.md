@@ -35,10 +35,13 @@
 ---
 
 **[Accepted Paper List]**
+- (2025.3.26) [ICDE'25] Juntao Liang, Lan Zhang, **Xiangmou Qu**, Jun Wang. FedEcover: Fast and Stable Converging Model-Heterogeneous Federated Learning with Efficient-Coverage Submodel Extraction.
 
-- [AAAI'25] Yanbing Zhou, **Xiangmou Qu**, et al. FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning **(Oral)**
-- [DASFAA'25] Min Fang, Zhihui Fu, **Xiangmou Qu**, et al. OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing. **(Long Oral, Industry track)** 
-- [TIFS'24] H Wang, Y Cai, J Wang, C Ma, C Ge, **X Qu**, L Zhou. Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation.
+- (2025.1.25) [DASFAA'25] Min Fang, Zhihui Fu, **Xiangmou Qu**, Ruiguang Pei, Jun Wang, Lan Zhang. OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing. **(Long Oral, Industry track)** 
+
+- (2024.12.10) [AAAI'25] Yanbing Zhou, **Xiangmou Qu**, Chenlong You, Jiyang Zhou, Jingyue Tang, Xin Zheng, Chunmao Cai, Yingbo Wu. FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning **(Oral)**
+
+- (2024.9.24) [TIFS'24] Hao Wang, Yichen Cai, Jun Wang, Chuan Ma, Chunpeng Ge, **Xiangmou Qu**, Lu Zhou. Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation.
 
 
 <!-- markdownlint-restore -->
