@@ -29,19 +29,21 @@
 
 - 🌱 I received master's degree from the College of Big Data and Software Engineering at <a href="https://www.cqu.edu.cn/" style="text-decoration: underline;">Chongqing University.</a>
 
-- 🐯 I focus on **<u><span style="color: red;">federated learning</span></u>**, **<u><span style="color: red;">efficient inference</span></u>** and **<u><span style="color: red;">personalization</span></u>** for LLMs.
+- 🐯 I focus on **<u><span style="color: red;">post-training, collaboration and personalization </span>** for agent, distributed machine learning system for privacy-preserving.
 
 - 📫 ![Static Badge](https://img.shields.io/badge/personal_wechat-lokinko-gree)  ![Static Badge](https://img.shields.io/badge/QQ-310556100-blue) ![Static Badge](https://img.shields.io/badge/steam-Lokinko-red) 
 ---
 
 **[Accepted Paper List]**
-- (2025.3.26) [ICDE'25] Juntao Liang, Lan Zhang, **Xiangmou Qu**, Jun Wang. FedEcover: Fast and Stable Converging Model-Heterogeneous Federated Learning with Efficient-Coverage Submodel Extraction.
+- (2025.8.5) [CIKM'25] Jiaming Qian, Xinting Liao, <font style="background-color: yellow">Xiangmou Qu</font>, Zhihui Fu, Xingyu Lou, Changwang Zhang, Pengyang Zhou, Zijun Zhou, Jun Wang and Chaochao Chen. Personalized Federated Recommendation with Multi-Faceted User Representation and Global Consistent Prototype.
 
-- (2025.1.25) [DASFAA'25] Min Fang, Zhihui Fu, **Xiangmou Qu**, Ruiguang Pei, Jun Wang, Lan Zhang. OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing. **(Long Oral, Industry track)** 
+- (2025.3.26) [ICDE'25] Juntao Liang, Lan Zhang, <font style="background-color: yellow">Xiangmou Qu</font>, Jun Wang. FedEcover: Fast and Stable Converging Model-Heterogeneous Federated Learning with Efficient-Coverage Submodel Extraction.
 
-- (2024.12.10) [AAAI'25] Yanbing Zhou, **Xiangmou Qu**, Chenlong You, Jiyang Zhou, Jingyue Tang, Xin Zheng, Chunmao Cai, Yingbo Wu. FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning **(Oral)**
+- (2025.1.25) [DASFAA'25] Min Fang, Zhihui Fu, <font style="background-color: yellow">Xiangmou Qu</font>, Ruiguang Pei, Jun Wang, Lan Zhang. OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing. **(Long Oral, Industry track)** 
 
-- (2024.9.24) [TIFS'24] Hao Wang, Yichen Cai, Jun Wang, Chuan Ma, Chunpeng Ge, **Xiangmou Qu**, Lu Zhou. Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation.
+- (2024.12.10) [AAAI'25] Yanbing Zhou, <font style="background-color: yellow">Xiangmou Qu</font>, Chenlong You, Jiyang Zhou, Jingyue Tang, Xin Zheng, Chunmao Cai, Yingbo Wu. FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning **(Oral)**
+
+- (2024.9.24) [TIFS'24] Hao Wang, Yichen Cai, Jun Wang, Chuan Ma, Chunpeng Ge, <font style="background-color: yellow">Xiangmou Qu</font>, Lu Zhou. Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation.
 
 
 <!-- markdownlint-restore -->
