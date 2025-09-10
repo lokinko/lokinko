@@ -187,24 +187,8 @@
 
 
 
-## 📊 GitHub Statistics
-
-<br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokinko&show_icons=true&theme=aura_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokinko&layout=compact&theme=aura_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokinko&theme=aura_dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
 
 ### 🌟 Thanks for visiting my profile!
 
@@ -214,7 +198,7 @@
 
 <br>
 
-*Last updated: January 2025*
+*Last updated: September 10, 2025*
 
 </div>
 
