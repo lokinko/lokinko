@@ -18,23 +18,35 @@
 
 </div>
 
+<br>
+
+---
+
+<br>
+
 <div align="left">
 
 >🌻 **Machine Learning Algorithm Engineer** at [OPPO Research Institute](https://www.oppo.com/en/), Shenzhen.  
 
 >🌱 **Master's Degree** from College of Big Data and Software Engineering, [Chongqing University.](https://www.cqu.edu.cn/)  
 
->🐯 **Research Focus**: Post-training, Collaboration and Personalization for GUI Agents, Distributed ML Systems.
-
 <br>
 
 </div>
+
+<br>
+
+---
+
+<br>
 
 ## 👨‍💻 Research Interests
 
 <div align="left">
 
 **Research Interests:**
+
+<br>
 
 <img src="https://img.shields.io/badge/🤖_GUI_Agents-Research-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/🔬_Federated_Learning-Deployment-brightgreen?style=flat-square" />
@@ -47,7 +59,16 @@
 
 <br>
 
+</div>
+
+<br>
+
+---
+
 ## 📈 Publication Statistics
+
+<br>
+
 <div align="left">
 
 **🔬 MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation**  
@@ -63,6 +84,9 @@
 
 <br>
 
+---
+
+<br>
 
 <div align="left">
 
@@ -76,6 +100,10 @@
 <img src="https://img.shields.io/badge/Federated_Learning-FF6B6B?style=flat-square" />
 <img src="https://img.shields.io/badge/Energy_Efficiency-4ECDC4?style=flat-square" />
 <img src="https://img.shields.io/badge/Multi_Task_Learning-45B7D1?style=flat-square" />
+
+<br>
+
+---
 
 <br>
 
@@ -93,6 +121,10 @@
 
 <br>
 
+---
+
+<br>
+
 **🔬 FedEcover: Fast and Stable Converging Model-Heterogeneous Federated Learning with Efficient-Coverage Submodel Extraction**  
 
 *IEEE International Conference on Data Engineering (ICDE'25)* | 📅 March 26, 2025  
@@ -104,9 +136,11 @@
 <img src="https://img.shields.io/badge/Model_Heterogeneity-DDA0DD?style=flat-square" />
 <img src="https://img.shields.io/badge/Convergence-98D8C8?style=flat-square" />
 
-
 <br>
 
+---
+
+<br>
 
 <div align="left">
 
@@ -124,6 +158,10 @@
 
 <br>
 
+---
+
+<br>
+
 **🔬 FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning**  
 
 *AAAI Conference on Artificial Intelligence (AAAI'25)* | 📅 December 10, 2024  
@@ -134,6 +172,10 @@
 <img src="https://img.shields.io/badge/Federated_Learning-FF6B6B?style=flat-square" />
 <img src="https://img.shields.io/badge/Representation_Learning-74B9FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Semantic_Anchors-FDCB6E?style=flat-square" />
+
+<br>
+
+---
 
 <br>
 
@@ -152,7 +194,11 @@
 
 </div>
 
+<br>
 
+---
+
+<br>
 
 ## 📅 Recent Activities
 
@@ -164,19 +210,23 @@
 
 - 🚀 **MobileUse Paper Accepted at NeurIPS'25** *(September 18, 2025)*: Our work "MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation" has been accepted at NeurIPS 2025!
 
+<br>
+
 - 🛠️ **MobileUse Framework Development** *(April 1, 2025)*: Participated in the design and development of the [mobile-use](https://github.com/MadeAgents/mobile-use) GUI Multi-Agent Framework, enabling autonomous mobile app operation through advanced agent collaboration.
-
-
-
 
 <br>
 
 </div>
 
+<br>
+
+---
+
 
 
 <div align="center">
 
+<br>
 
 ### 🌟 Thanks for visiting my profile!
 
@@ -187,6 +237,8 @@
 <br>
 
 *Last updated: September 10, 2025*
+
+<br>
 
 </div>
 
