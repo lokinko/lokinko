@@ -2,9 +2,6 @@
   
 # 👋 *lokinko's Research Journey*
 
-
-
-
 <img src="https://img.shields.io/badge/GitHub-lokinko-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Zhihu-lokinko-0084FF?style=flat-square&logo=zhihu&logoColor=white" />
 <img src="https://img.shields.io/badge/Email-lokinko.cs@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
@@ -14,56 +11,27 @@
 <img src="https://img.shields.io/badge/QQ-310556100-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" />
 <img src="https://img.shields.io/badge/Steam-Lokinko-1B2838?style=flat-square&logo=steam&logoColor=white" /> 
 
-<br>
 
 </div>
 
-<br>
-
----
-
-<br>
 
 <div align="left">
 
->🌻 **Machine Learning Algorithm Engineer** at [OPPO Research Institute](https://www.oppo.com/en/), Shenzhen.  
+🌻 **Machine Learning Algorithm Engineer** at [OPPO Research Institute](https://www.oppo.com/en/), Shenzhen.  
 
->🌱 **Master's Degree** from College of Big Data and Software Engineering, [Chongqing University.](https://www.cqu.edu.cn/)  
+🌱 **Master's Degree** from College of Big Data and Software Engineering, [Chongqing University.](https://www.cqu.edu.cn/)  
 
-<br>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 👨‍💻 Research Interests
-
-<div align="left">
-
-**Research Interests:**
-
-<br>
-
-<img src="https://img.shields.io/badge/🤖_GUI_Agents-Research-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/🔬_Federated_Learning-Deployment-brightgreen?style=flat-square" />
-
-<br>
+🤖 **Research Interests:**
 
 - **GUI Agents**: Post-training for agentic model, multi-agent collaboration, and proactive & personalized agent.
 
 - **Distributed Systems**: Federated learning, Edge-Cloud collaboration recommendation, mobile computing.
 
-<br>
 
 </div>
 
 <br>
 
----
 
 ## 📈 Publication Statistics
 
@@ -73,7 +41,7 @@
 
 **🔬 MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation**  
 
-*Neural Information Processing Systems (NeurIPS'25)* | 📅 September 18, 2025  
+*[Neural Information Processing Systems (NeurIPS'25)](https://arxiv.org/abs/2507.16853)* | 📅 September 18, 2025  
 
 👤 **Authors**: Ning Li, Xiangmou Qu, Jiamu Zhou, Jun Wang, Muning Wen, Kounianhua Du, Xingyu Lou, Qiuying Peng, Jun Wang, Weinan Zhang
 
@@ -92,7 +60,7 @@
 
 **🔬 JCSRC: Joint Client Selection and Resource Configuration for Energy-Efficient Multi-Task Federated Learning**  
 
-*IEEE Transactions on Computers (TC'25)* | 📅 August 24, 2025  
+*[IEEE Transactions on Computers (TC'25)](https://ieeexplore.ieee.org/abstract/document/11151100)* | 📅 August 24, 2025  
 
 👤 **Authors**: Junpeng Ke, Junlong Zhou, Dan Meng, Yue Zeng, Yizhou Shi, Xiangmou Qu, Song Guo
 
@@ -109,7 +77,7 @@
 
 **🔬 Personalized Federated Recommendation with Multi-Faceted User Representation and Global Consistent Prototype**  
 
-*ACM International Conference on Information and Knowledge Management (CIKM'25)* | 📅 August 5, 2025  
+*[ACM International Conference on Information and Knowledge Management (CIKM'25)]()* | 📅 August 5, 2025  
 
 👤 **Authors**: Jiaming Qian, Xinting Liao, Xiangmou Qu, Zhihui Fu, Xingyu Lou, Changwang Zhang, Pengyang Zhou, Zijun Zhou, Jun Wang and Chaochao Chen
 
@@ -127,7 +95,7 @@
 
 **🔬 FedEcover: Fast and Stable Converging Model-Heterogeneous Federated Learning with Efficient-Coverage Submodel Extraction**  
 
-*IEEE International Conference on Data Engineering (ICDE'25)* | 📅 March 26, 2025  
+*[IEEE International Conference on Data Engineering (ICDE'25)](https://ieeexplore.ieee.org/abstract/document/11113012/)* | 📅 March 26, 2025  
 
 👤 **Authors**: Juntao Liang, Lan Zhang, Xiangmou Qu, Jun Wang
 
@@ -144,9 +112,9 @@
 
 <div align="left">
 
-**🔬 OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing**  
+**🔬 OLearning: A Geo-Distributed System for Device-Cloud Collaborative Computing**
 
-*Database Systems for Advanced Applications (DASFAA'25)* | 📅 January 25, 2025  
+*[Database Systems for Advanced Applications (DASFAA'25, Oral, Industry track)]()* | 📅 January 25, 2025  
 
 👤 **Authors**: Min Fang, Zhihui Fu, Xiangmou Qu, Ruiguang Pei, Jun Wang, Lan Zhang.
 
@@ -162,9 +130,9 @@
 
 <br>
 
-**🔬 FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning**  
+**🔬 FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning** 
 
-*AAAI Conference on Artificial Intelligence (AAAI'25)* | 📅 December 10, 2024  
+*[AAAI Conference on Artificial Intelligence (AAAI'25, Oral)](https://ojs.aaai.org/index.php/AAAI/article/view/34464)* | 📅 December 10, 2024  
 
 👤 **Authors**: Yanbing Zhou, Xiangmou Qu, Chenlong You, Jiyang Zhou, Jingyue Tang, Xin Zheng, Chunmao Cai, Yingbo Wu
 
@@ -179,9 +147,9 @@
 
 <br>
 
-**🔬 Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation**  
+**🔬 Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation**
 
-*IEEE Transactions on Information Forensics and Security (TIFS'24)* | 📅 September 24, 2024  
+*[IEEE Transactions on Information Forensics and Security]((https://ieeexplore.ieee.org/abstract/document/10703116/) ) (TIFS'24)* | 📅 September 24, 2024  
 
 👤 **Authors**: Hao Wang, Yichen Cai, Jun Wang, Chuan Ma, Chunpeng Ge, Xiangmou Qu, Lu Zhou  
 
@@ -194,39 +162,31 @@
 
 </div>
 
-<br>
 
----
-
-<br>
 
 ## 📅 Recent Activities
 
 *Last updated: September 18, 2025*
 
-<br>
+
 
 <div align="left">
 
 - 🚀 **MobileUse Paper Accepted at NeurIPS'25** *(September 18, 2025)*: Our work "MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation" has been accepted at NeurIPS 2025!
 
-<br>
 
 - 🛠️ **MobileUse Framework Development** *(April 1, 2025)*: Participated in the design and development of the [mobile-use](https://github.com/MadeAgents/mobile-use) GUI Multi-Agent Framework, enabling autonomous mobile app operation through advanced agent collaboration.
 
-<br>
+
 
 </div>
 
-<br>
-
----
 
 
 
 <div align="center">
 
-<br>
+
 
 ### 🌟 Thanks for visiting my profile!
 
@@ -234,11 +194,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=lokinko&style=flat-square&color=blueviolet" />
 
-<br>
 
 *Last updated: September 10, 2025*
 
-<br>
 
 </div>
 
