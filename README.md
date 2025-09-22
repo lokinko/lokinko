@@ -47,34 +47,23 @@
 
 - **Distributed Systems**: Federated learning, Edge-Cloud collaboration recommendation, mobile computing.
 
-<br>
-
-**Languages & Frameworks:**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-
-<br>
-
-**Tools & Platforms:**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
-<br>
-
-</div>
-
 
 ## 📈 Publication Statistics
+<div align="left">
+
+**🔬 MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation**  
+
+*Neural Information Processing Systems (NeurIPS'25)* | 📅 September 18, 2025  
+
+👤 **Authors**: Ning Li, Xiangmou Qu, Jiamu Zhou, Jun Wang, Muning Wen, Kounianhua Du, Xingyu Lou, Qiuying Peng, Jun Wang, Weinan Zhang
+
+<img src="https://img.shields.io/badge/Conference-NeurIPS'25-darkblue?style=flat-square" />
+<img src="https://img.shields.io/badge/GUI_Agents-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Mobile_Operation-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/Hierarchical_Reflection-45B7D1?style=flat-square" />
 
 <br>
 
-#### 📅 **2025 Publications**
 
 <div align="left">
 
@@ -116,13 +105,9 @@
 <img src="https://img.shields.io/badge/Model_Heterogeneity-DDA0DD?style=flat-square" />
 <img src="https://img.shields.io/badge/Convergence-98D8C8?style=flat-square" />
 
+
 <br>
 
-</div>
-
----
-
-#### 📅 **2024 Publications**
 
 <div align="left">
 
@@ -172,13 +157,17 @@
 
 ## 📅 Recent Activities
 
+*Last updated: September 18, 2025*
+
 <br>
 
 <div align="left">
 
-**🔥 2025 Updates**
+- 🚀 **MobileUse Paper Accepted at NeurIPS'25** *(September 18, 2025)*: Our work "MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation" has been accepted at NeurIPS 2025!
 
-- 🚀 Participated in the design and development of a [mobile-use](https://github.com/MadeAgents/mobile-use) GUI Multi-Agent Framework.
+- 🛠️ **MobileUse Framework Development** *(April 1, 2025)*: Participated in the design and development of the [mobile-use](https://github.com/MadeAgents/mobile-use) GUI Multi-Agent Framework, enabling autonomous mobile app operation through advanced agent collaboration.
+
+
 
 
 <br>
