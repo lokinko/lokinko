@@ -1,16 +1,14 @@
 <div align="center">
   
-# 👋 Hi there, I'm Xiangmou Qu (lokinko)
+# 👋 *lokinko's Research Journey*
 
-### 🎯 Machine Learning Algorithm Engineer | Researcher
 
-<br>
+
 
 <img src="https://img.shields.io/badge/GitHub-lokinko-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Zhihu-lokinko-0084FF?style=flat-square&logo=zhihu&logoColor=white" />
 <img src="https://img.shields.io/badge/Email-lokinko.cs@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
 
-<br>
 
 <img src="https://img.shields.io/badge/WeChat-lokinko-07C160?style=flat-square&logo=wechat&logoColor=white" />
 <img src="https://img.shields.io/badge/QQ-310556100-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" />
@@ -22,11 +20,11 @@
 
 <div align="left">
 
-🌻 **Machine Learning Algorithm Engineer** at [OPPO Research Institute](https://www.oppo.com/en/), Shenzhen.  
+>🌻 **Machine Learning Algorithm Engineer** at [OPPO Research Institute](https://www.oppo.com/en/), Shenzhen.  
 
-🌱 **Master's Degree** from College of Big Data and Software Engineering, [Chongqing University.](https://www.cqu.edu.cn/)  
+>🌱 **Master's Degree** from College of Big Data and Software Engineering, [Chongqing University.](https://www.cqu.edu.cn/)  
 
-🐯 **Research Focus**: Post-training, Collaboration and Personalization for GUI Agents, Distributed ML Systems.
+>🐯 **Research Focus**: Post-training, Collaboration and Personalization for GUI Agents, Distributed ML Systems.
 
 <br>
 
@@ -47,6 +45,7 @@
 
 - **Distributed Systems**: Federated learning, Edge-Cloud collaboration recommendation, mobile computing.
 
+<br>
 
 ## 📈 Publication Statistics
 <div align="left">
