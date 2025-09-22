@@ -2,6 +2,8 @@
   
 # 👋 *lokinko's Research Journey*
 
+<br>
+
 <img src="https://img.shields.io/badge/GitHub-lokinko-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Zhihu-lokinko-0084FF?style=flat-square&logo=zhihu&logoColor=white" />
 <img src="https://img.shields.io/badge/Email-lokinko.cs@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
@@ -11,6 +13,7 @@
 <img src="https://img.shields.io/badge/QQ-310556100-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" />
 <img src="https://img.shields.io/badge/Steam-Lokinko-1B2838?style=flat-square&logo=steam&logoColor=white" /> 
 
+<br>
 
 </div>
 
@@ -149,7 +152,7 @@
 
 **🔬 Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation**
 
-*[IEEE Transactions on Information Forensics and Security]((https://ieeexplore.ieee.org/abstract/document/10703116/) ) (TIFS'24)* | 📅 September 24, 2024  
+*[IEEE Transactions on Information Forensics and Security (TIFS'24)](https://ieeexplore.ieee.org/abstract/document/10703116/)* | 📅 September 24, 2024  
 
 👤 **Authors**: Hao Wang, Yichen Cai, Jun Wang, Chuan Ma, Chunpeng Ge, Xiangmou Qu, Lu Zhou  
 
