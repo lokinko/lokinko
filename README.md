@@ -17,8 +17,11 @@
 
 </div>
 
+<br>
 
 <div align="left">
+
+<br>
 
 🌻 **Machine Learning Algorithm Engineer** at [OPPO Research Institute](https://www.oppo.com/en/), Shenzhen.  
 
@@ -37,6 +40,27 @@
 
 
 ## 📈 Publication Statistics
+
+
+<div align="left">
+
+**🔬 ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks**  
+
+*[The Web Conference, WWW'26 (arXiv:2510.14621)](https://arxiv.org/abs/2510.14621)* | 📅 Jan 13, 2026  
+
+👤 **Authors**: Yuanyi Song, Heyuan Huang, Qiqiang Lin, Yin Zhao, Xiangmou Qu, Jun Wang, Xingyu Lou, Weiwen Liu, Zhuosheng Zhang, Jun Wang, Yong Yu, Weinan Zhang, Zhaoxiang Wang
+
+<img src="https://img.shields.io/badge/Conference-WWW'26-b31b1b?style=flat-square" />
+<img src="https://img.shields.io/badge/Benchmarking-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Graph_Structured_Framework-45B7D1?style=flat-square" />
+<img src="https://img.shields.io/badge/Long_Horizon_Tasks-4ECDC4?style=flat-square" />
+
+<br>
+
+---
+
+
+
 
 <br>
 
