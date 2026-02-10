@@ -23,13 +23,29 @@
 % only for pdflatex
 % \input{glyphtounicode}
 \usepackage{xeCJK}
-\setCJKmainfont{STSong}      % 对应英文字体中的 Serif
-\setCJKsansfont{STHeiti}    % 对应英文字体中的 Sans-serif (消除警告的关键)
-\setCJKmonofont{STHeiti}    % 对应等宽字体
+\usepackage{ifplatform}  % 用于检测操作系统
+
+% 跨平台中文字体设置：自动检测 Windows / macOS / Linux
 \xeCJKsetup{AutoFakeBold=true, AutoFakeSlant=true}
-\setCJKmainfont[AutoFakeBold=true, AutoFakeSlant=true]{STSong}
-\setCJKsansfont[AutoFakeBold=true, AutoFakeSlant=true]{STHeiti}
-\setCJKmonofont[AutoFakeBold=true, AutoFakeSlant=true]{STHeiti}
+\ifwindows
+    % Windows 字体
+    \setCJKmainfont{Microsoft YaHei}
+    \setCJKsansfont{Microsoft YaHei}
+    \setCJKmonofont{Microsoft YaHei}
+\else
+    \ifmacosx
+        % macOS 字体
+        \setCJKmainfont{STSong}
+        \setCJKsansfont{STHeiti}
+        \setCJKmonofont{STHeiti}
+    \else
+        % Linux 字体 (需要安装 fonts-noto-cjk)
+        \setCJKmainfont{Noto Serif CJK SC}
+        \setCJKsansfont{Noto Sans CJK SC}
+        \setCJKmonofont{Noto Sans Mono CJK SC}
+    \fi
+\fi
+
 
 % fontawesome
 \usepackage{fontawesome5}
@@ -60,7 +76,7 @@
 \usepackage{tgheros}
 \renewcommand*\familydefault{\sfdefault} 
 %% Only if the base font of the document is to be sans serif
-\usepackage[T1]{fontenc}
+\usepackage{fontspec}  % XeLaTeX 使用 fontspec 来处理字体
 
 
 \pagestyle{fancy}
