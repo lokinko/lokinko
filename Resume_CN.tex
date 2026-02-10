@@ -27,24 +27,37 @@
 
 % 跨平台中文字体设置：自动检测 Windows / macOS / Linux
 \xeCJKsetup{AutoFakeBold=true, AutoFakeSlant=true}
-\ifwindows
-    % Windows 字体
-    \setCJKmainfont{Microsoft YaHei}
-    \setCJKsansfont{Microsoft YaHei}
-    \setCJKmonofont{Microsoft YaHei}
-\else
-    \ifmacosx
-        % macOS 字体
-        \setCJKmainfont{STSong}
-        \setCJKsansfont{STHeiti}
-        \setCJKmonofont{STHeiti}
-    \else
-        % Linux 字体 (需要安装 fonts-noto-cjk)
-        \setCJKmainfont{Noto Serif CJK SC}
-        \setCJKsansfont{Noto Sans CJK SC}
-        \setCJKmonofont{Noto Sans Mono CJK SC}
-    \fi
-\fi
+
+\setCJKmainfont{STSong}      % 对应英文字体中的 Serif
+\setCJKsansfont{STHeiti}    % 对应英文字体中的 Sans-serif (消除警告的关键)
+\setCJKmonofont{STHeiti}    % 对应等宽字体
+\xeCJKsetup{AutoFakeBold=true, AutoFakeSlant=true}
+\setCJKmainfont[AutoFakeBold=true, AutoFakeSlant=true]{STSong}
+\setCJKsansfont[AutoFakeBold=true, AutoFakeSlant=true]{STHeiti}
+\setCJKmonofont[AutoFakeBold=true, AutoFakeSlant=true]{STHeiti}
+
+% \ifwindows
+%     % Windows 字体
+%     \setCJKmainfont{Microsoft YaHei}
+%     \setCJKsansfont{Microsoft YaHei}
+%     \setCJKmonofont{Microsoft YaHei}
+% \else
+%     \ifmacosx
+%         % macOS 字体
+%         \setCJKmainfont{STSong}      % 对应英文字体中的 Serif
+%         \setCJKsansfont{STHeiti}    % 对应英文字体中的 Sans-serif (消除警告的关键)
+%         \setCJKmonofont{STHeiti}    % 对应等宽字体
+%         \xeCJKsetup{AutoFakeBold=true, AutoFakeSlant=true}
+%         \setCJKmainfont[AutoFakeBold=true, AutoFakeSlant=true]{STSong}
+%         \setCJKsansfont[AutoFakeBold=true, AutoFakeSlant=true]{STHeiti}
+%         \setCJKmonofont[AutoFakeBold=true, AutoFakeSlant=true]{STHeiti}
+%     \else
+%         % Linux 字体 (需要安装 fonts-noto-cjk)
+%         \setCJKmainfont{Noto Serif CJK SC}
+%         \setCJKsansfont{Noto Sans CJK SC}
+%         \setCJKmonofont{Noto Sans Mono CJK SC}
+%     \fi
+% \fi
 
 
 % fontawesome
@@ -156,6 +169,14 @@
 
 \color{text-grey}
 
+\hypersetup{
+    colorlinks=true,      % 开启文字着色
+    urlcolor=NavyBlue,        % 网页链接显示为蓝色
+    linkcolor=NavyBlue,       % 内部引用显示为蓝色
+    citecolor=NavyBlue        % 文献引用显示为蓝色
+    pdfborderstyle={/S/U/W 1}   % 设置边框样式为下划线 (Underline)，宽度为 1pt
+}
+
 %-------------------------------------------
 %%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -164,23 +185,29 @@
 
 %----------HEADING----------
 \begin{center}
-    \textbf{\Huge 瞿祥谋} \\ \vspace{5pt}
-    \small \faPhone* \texttt{(+86)15958040713} \hspace{1pt} $|$
-    \hspace{1pt} \faEnvelope \hspace{2pt} \texttt{lokinko.cs@gmail.com} \hspace{1pt} $|$ 
-    \hspace{1pt} \faMapMarker* \hspace{2pt}\texttt{中国|深圳}
-    \\ \vspace{-3pt}
+  \textbf{\Huge 瞿祥谋} \\ \vspace{8pt}
+  \small 
+  \faPhone* \hspace{2pt} \texttt{15958040713} \hspace{8pt} $|$ \hspace{8pt}
+  \faEnvelope \hspace{2pt} \href{mailto:lokinko.cs@gmail.com}{\texttt{lokinko.cs@gmail.com}} \hspace{8pt} $|$ \hspace{8pt}
+  \faMapMarker* \hspace{2pt} \texttt{中国, 深圳} 
+  \\ \vspace{4pt}
+  \faGithub \hspace{2pt} \href{https://github.com/lokinko}{\texttt{GitHub | lokinko}} \hspace{8pt} $|$ \hspace{8pt}
+  \faZhihu \hspace{2pt} \href{https://www.zhihu.com/people/lokinko}{\texttt{lokinko (1.4w followings)}} \hspace{8pt} $|$ \hspace{8pt}
+  \faGraduationCap \hspace{2pt} \href{https://scholar.google.com/citations?user=kzBPdVgAAAAJ&hl=en}{\texttt{Google Scholar}}
+  \\ \vspace{-3pt}
 \end{center}
 
 %
 %-----------PROGRAMMING SKILLS-----------
 \section{个人简介}
- \begin{itemize}[leftmargin=0in, label={}]
-    \small{\item{
-     \textbf{OPPO 研究院 | 高级机器学习算法工程师(2022.07 - 至今)}   {: 熟练使用训练框架 LlamaFactory (SFT) \& Verl (RL), 推理框架 vLLM.}\vspace{2pt} \\
-     \textbf{重庆大学 | 硕士(2019.09 - 2022.06)}     {: 熟练掌握 GitHub 协作, Cursor 辅助编程等.}\vspace{2pt} \\
-     \textbf{浙江工业大学 | 本科（2015.09 - 2019.06）}     {: 熟练掌握 GitHub 协作, Cursor 辅助编程等.}
-    }}
- \end{itemize}
+ \begin{itemize}[topsep=2pt, leftmargin=0in, label={}]
+    \item \textbf{OPPO 研究院 | 高级算法工程师(2022.07 - 至今)}  
+    \begin{itemize}[nosep, leftmargin=1.2em]
+      \item 全链路参与GUI智能体项目整体搭建，主导智能体框架的技术探索与落地、构建端到端的GUI评估体系，作为技术负责人推进GUI智能体在自动打车等业务全量上线，参与数据飞轮方案优化与模型训练，构建通用、鲁棒的GUI智能体系统；
+      \item 主导端云协同训练范式的系统设计与算法优化,作为项目主责推进海外端云推荐范式在广告推荐领域的落地并达成营收目标.
+    \end{itemize}
+    \item \textbf{重庆大学 | 硕士(2019.09 - 2022.06) \hspace{0.5cm}} \textbf{浙江工业大学 | 本科(2015.09 - 2019.06)}
+  \end{itemize}
 
 
 %-----------PROJECTS-----------
@@ -188,9 +215,8 @@
 \section{项目经验}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {GUI Agent 自动执行}{2024.09 - 至今}
-      {OPPO Research Institute}{深圳} \vspace{2pt} \\
-      项目背景：xxx
+      {GUI Agent 自动执行}{2024.09 - 至今}{}{}
+      \small 项目背景：构建系统级通用的自动执行能力，深入探索GUI Agent基模及框架能力，为用户解决「简单到不想做, 复杂到不会做」的日常需求，打造主动、个性化的 OS 级执行助手。
         \resumeItemListStart
           \resumeItem{[智能体框架 | 技术负责] 主导构建多智能体协同框架, 实现GUI Agent 自动执行}
           \resumeItem{[数据飞轮 | 参与]   主导构建多智能体协同框架, 实现GUI Agent 自动执行}
@@ -200,8 +226,7 @@
         \resumeItemListEnd
 
         \resumeSubheading
-        {端云协同 | 分布式机器学习}{2022.07 - 2024.09}
-        {OPPO Research Institute}{深圳} \vspace{2pt} \\
+        {端云协同 | 分布式机器学习}{2022.07 - 2024.09}{}{}
         项目背景：xxx
           \resumeItemListStart
             \resumeItem{[系统设计] 主导构建多智能体协同框架, 实现GUI Agent 自动执行}
