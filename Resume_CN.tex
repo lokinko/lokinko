@@ -28,13 +28,13 @@
 % 跨平台中文字体设置：自动检测 Windows / macOS / Linux
 \xeCJKsetup{AutoFakeBold=true, AutoFakeSlant=true}
 
-\setCJKmainfont{STSong}      % 对应英文字体中的 Serif
-\setCJKsansfont{STHeiti}    % 对应英文字体中的 Sans-serif (消除警告的关键)
-\setCJKmonofont{STHeiti}    % 对应等宽字体
-\xeCJKsetup{AutoFakeBold=true, AutoFakeSlant=true}
-\setCJKmainfont[AutoFakeBold=true, AutoFakeSlant=true]{STSong}
-\setCJKsansfont[AutoFakeBold=true, AutoFakeSlant=true]{STHeiti}
-\setCJKmonofont[AutoFakeBold=true, AutoFakeSlant=true]{STHeiti}
+        \setCJKmainfont{STSong}      % 对应英文字体中的 Serif
+        \setCJKsansfont{STHeiti}    % 对应英文字体中的 Sans-serif (消除警告的关键)
+        \setCJKmonofont{STHeiti}    % 对应等宽字体
+        \xeCJKsetup{AutoFakeBold=true, AutoFakeSlant=true}
+        \setCJKmainfont[AutoFakeBold=true, AutoFakeSlant=true]{STSong}
+        \setCJKsansfont[AutoFakeBold=true, AutoFakeSlant=true]{STHeiti}
+        \setCJKmonofont[AutoFakeBold=true, AutoFakeSlant=true]{STHeiti}
 
 % \ifwindows
 %     % Windows 字体
@@ -187,12 +187,12 @@
 \begin{center}
   \textbf{\Huge 瞿祥谋} \\ \vspace{8pt}
   \small 
-  \faPhone* \hspace{2pt} \texttt{15958040713} \hspace{8pt} $|$ \hspace{8pt}
+  \faPhone* \hspace{2pt} \texttt{(+86)15958040713} \hspace{8pt} $|$ \hspace{8pt}
   \faEnvelope \hspace{2pt} \href{mailto:lokinko.cs@gmail.com}{\texttt{lokinko.cs@gmail.com}} \hspace{8pt} $|$ \hspace{8pt}
   \faMapMarker* \hspace{2pt} \texttt{中国, 深圳} 
   \\ \vspace{4pt}
-  \faGithub \hspace{2pt} \href{https://github.com/lokinko}{\texttt{GitHub | lokinko}} \hspace{8pt} $|$ \hspace{8pt}
-  \faZhihu \hspace{2pt} \href{https://www.zhihu.com/people/lokinko}{\texttt{lokinko (1.4w followings)}} \hspace{8pt} $|$ \hspace{8pt}
+  \faGithub \hspace{2pt} \href{https://github.com/lokinko}{\texttt{lokinko()}} \hspace{8pt} $|$ \hspace{8pt}
+  \faZhihu \hspace{2pt} \href{https://www.zhihu.com/people/lokinko}{\texttt{lokinko(1.4w followings)}} \hspace{8pt} $|$ \hspace{8pt}
   \faGraduationCap \hspace{2pt} \href{https://scholar.google.com/citations?user=kzBPdVgAAAAJ&hl=en}{\texttt{Google Scholar}}
   \\ \vspace{-3pt}
 \end{center}
@@ -216,14 +216,23 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {GUI Agent 自动执行}{2024.09 - 至今}{}{}
-      \small 项目背景：构建系统级通用的自动执行能力，深入探索GUI Agent基模及框架能力，为用户解决「简单到不想做, 复杂到不会做」的日常需求，打造主动、个性化的 OS 级执行助手。
-        \resumeItemListStart
-          \resumeItem{[智能体框架 | 技术负责] 主导构建多智能体协同框架, 实现GUI Agent 自动执行}
-          \resumeItem{[数据飞轮 | 参与]   主导构建多智能体协同框架, 实现GUI Agent 自动执行}
-          \resumeItem{[模型训练 | 参与] ColorAgent}
-          \resumeItem{[Benchmark | 核心贡献] 主导构建多智能体协同框架, 实现GUI Agent 自动执行}
-          \resumeItem{[业务落地 | 技术负责] 主导构建多智能体协同框架, 实现GUI Agent 自动执行}
-        \resumeItemListEnd
+      \small 项目背景：构建系统级通用的自动执行能力，深入探索GUI Agent基模及框架能力，为用户解决「简单到不想做, 复杂到不会做」的日常需求，打造主动、个性化的 OS 级执行助手。\\ \vspace{3pt}
+
+      \href{https://arxiv.org/abs/2507.16853}{[NeurIPS'25] MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation}
+      \begin{itemize}[nosep, leftmargin=1.2em]
+          \item {[智能体框架] 主导构建基于 Planner-Executor-Hierarchical Reflector 的多智能体协同框架, 通过先验的主动探索能力构建 APP-specific 的通用经验, 并引入后延增强的 Hierarchical reflector 对不同粒度的GUI Agent轨迹进行反思，能迅速从多样的执行失败中恢复，提升智能体执行的鲁棒性。}
+      \end{itemize}
+
+      \href{https://arxiv.org/abs/2510.14621}{[WWW'26] ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks}
+      \begin{itemize}[nosep, leftmargin=1.2em]
+        \item{[GUI 自动化评测] 针对 GUI Agent 对长程任务执行能力的评估，设计一种基于 Graph-Structured Framework 的可扩展自动化评测方案，解决动态环境评估难复现、静态环境评估不充分，无法覆盖真实环境多路解的问题，以及真实测量多智能体错误恢复的问题。}
+      \end{itemize}
+
+      \href{https://arxiv.org/abs/2510.19386}{[Technical Report] ColorAgent: Building A Robust, Personalized, and Interactive OS Agent}
+      \begin{itemize}[nosep, leftmargin=1.2em]
+        \item{[OS Agent] 构建一种鲁棒、个性化、交互式的 OS Agent 框架，通过引入先验知识、后验增强、多模态交互等技术，实现对用户需求的精准理解、主动响应和持续优化。}
+      \end{itemize}
+
 
         \resumeSubheading
         {端云协同 | 分布式机器学习}{2022.07 - 2024.09}{}{}
